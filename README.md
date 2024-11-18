@@ -1,8 +1,8 @@
 # Lead scoring case study
-This repo is an exercise to create Logistic Regression model for company Education  X to tackle the following problem statement. 
+This repo is an exercise to create Logistic Regression model for X Education company to tackle the following problem statement. 
 
 ### Packages used
-- numPy
+- numpy
 - pandas
 - matplotlib
 - seaborn
